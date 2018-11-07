@@ -15,6 +15,6 @@ After Udacity's courese I got knowledge about combining command options, like -a
 
 > Ok, i'm writing this as I watch tutors (not afterwards) and I'm gonna admit, after being spoiled with cool and practice-centered Undacity and Codecademy courses, two long Tutsplus articles are boring, have hard to understand language and generally leave nothing new on this theme in my brain. They're just a long list of technologies and their definitions (as for me). Meh. So I'll try Udacity's "Networking for Web Developers" to better understend the theme.
 
-![Screenshot of performed tasks](./task_linux_cli/udacity-screenshot.png)
+![Screenshot of performed tasks](./task_linux_cli/udacity-2-screenshot.png)
 
 Ok, so Udacity’s course on Networking gave me a better understanding of work of IP, TCP and HTTP layers of network structure. I finally understand what "subnet mask" on my router means, how people are dealing with running out of ipv4s and that HTTP is just a dialogue between browser and server with magic words, handled by TCP. Each layer from Hardware>IP>TCP>HTTP gives guarantees and simple interface of control for the other layer. I’ve got familiar with cool abilities of tcpdump to catch the packages. Knowledge about how routers control speed of receiving of data or how sites deal with distiguishing many users with the same public ip address, these are also very interesting.
