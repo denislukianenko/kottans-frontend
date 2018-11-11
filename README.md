@@ -1,6 +1,5 @@
 # Kottans Frontend Tasks
 ## Git and GitHub
-
 ![Screenshot of performed tasks](./git-intro/udacity-screenshot.png)
 
 Ok, I finally got familiar with Git basics. I heard about it for few years, but used for 0 years. Well, I used git clone, git init. Since last month had used commit, push and pull, but never understood how it really works. Course from Udacity, though looked too long for such topic, helped me to understand commits, branching, collaboration via forking and pull requests. Finally helped me to understand that there exists such thing as stage area and why it exists :) 
@@ -20,3 +19,9 @@ After Udacity's courese I got knowledge about combining command options, like -a
 ![Screenshot of performed tasks](./task_linux_cli/udacity-2-screenshot.png)
 
 Ok, so Udacity’s course on Networking gave me a better understanding of work of IP, TCP and HTTP layers of network structure. I finally understand what "subnet mask" on my router means, how people are dealing with running out of ipv4s and that HTTP is just a dialogue between browser and server with magic words, handled by TCP. Each layer from Hardware>IP>TCP>HTTP gives guarantees and simple interface of control for the other layer. I’ve got familiar with cool abilities of tcpdump to catch the packages. Knowledge about how routers control speed of receiving of data or how sites deal with distiguishing many users with the same public ip address, these are also very interesting.
+
+## Git for Team Collaboration
+![Screenshots of performed tasks](./task_git_collaboration/udacity-screenshots.png)
+This course as for me mostly repeats content on first course on Git and Github, so I run though it briefly, searching for new info. Here is what I found new: `git tag`, "?" in .gitignore, `git log --oneline --graph --all`, `git commit --amend`, Relative Commit References, Reverting changes, `git shortlog`, `git rebase` isn't that scary.
+
+I didn't understand why to put in curriculum a course which mostly repeats content of some of the previous course but tell it in slightly different (as for me in better) way. Glory to the branches' animated visualizations!
