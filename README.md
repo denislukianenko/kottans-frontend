@@ -1,6 +1,6 @@
 # Kottans Frontend Tasks
 ## Git and GitHub
-![Screenshot of performed tasks](./git-intro/udacity-screenshot.png)
+![Screenshot of performed tasks](./task_git_intro/udacity-screenshot.png)
 
 Ok, I finally got familiar with Git basics. I heard about it for few years, but used for 0 years. Well, I used git clone, git init. Since last month had used commit, push and pull, but never understood how it really works. Course from Udacity, though looked too long for such topic, helped me to understand commits, branching, collaboration via forking and pull requests. Finally helped me to understand that there exists such thing as stage area and why it exists :) 
 
@@ -25,3 +25,7 @@ Ok, so Udacity’s course on Networking gave me a better understanding of work o
 This course as for me mostly repeats content on first course on Git and Github, so I run though it briefly, searching for new info. Here is what I found new: `git tag`, "?" in .gitignore, `git log --oneline --graph --all`, `git commit --amend`, Relative Commit References, Reverting changes, `git shortlog`, `git rebase` isn't that scary.
 
 I didn't understand why to put in curriculum a course which mostly repeats content of some of the previous course but tell it in slightly different (as for me in better) way. Glory to the branches' animated visualizations!
+
+## Intro to HTML and CSS
+![Screenshots of performed tasks](./task_html_css_intro/htmlacademy-12.png)
+I love HTMLAcademy (and free frontend conferences), some of their tasks are _very cute_. Especially last task in CSS. New things for me from this course, shortly: `<dl>`, `<dt>`, `<dd>`, `<del>`, `<ins>`, `<mark>`, `nth-child(2n)` and `nth-child(odd)` to choose odd children.
