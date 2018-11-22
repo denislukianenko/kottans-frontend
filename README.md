@@ -24,8 +24,17 @@ Ok, so Udacity’s course on Networking gave me a better understanding of work o
 ![Screenshots of performed tasks](./task_git_collaboration/udacity-screenshots.png)
 This course as for me mostly repeats content on first course on Git and Github, so I run though it briefly, searching for new info. Here is what I found new: `git tag`, "?" in .gitignore, `git log --oneline --graph --all`, `git commit --amend`, Relative Commit References, Reverting changes, `git shortlog`, `git rebase` isn't that scary.
 
-I didn't understand why to put in curriculum a course which mostly repeats content of some of the previous course but tell it in slightly different (as for me in better) way. Glory to the branches' animated visualizations!
+I didn't understand why to put in curriculum a course which mostly repeats content of one of the previous courses, but tells it in a slightly different (as for me in a better) way. Glory to the branches' animated visualizations!
 
 ## Intro to HTML and CSS
 ![Screenshots of performed tasks](./task_html_css_intro/htmlacademy-12.png)
 I love HTMLAcademy (and free frontend conferences), some of their tasks are _very cute_. Especially last task in CSS. New things for me from this course, shortly: `<dl>`, `<dt>`, `<dd>`, `<del>`, `<ins>`, `<mark>`, `nth-child(2n)` and `nth-child(odd)` to choose odd children.
+
+## Responsive Web Design
+![Screenshots of performed tasks](./task_responsive_web_design/Responsive-3-tasks-screen.png)
+Staring from some point in the past I can't really see styling pages without flexbox. Technology already has been helping me to solve _a lot of_ the design tasks. Very universal technology, as for me. But CSS Grid has even more capabilities! (Though, I understand, that there are caseses where flexbox is more suitable). 
+
+Course from Udacity didn't really give me much new knowledge on this theme, but Flexbox Froggy and Grid Garden were pretty interesting and challenging enough closer to their finishes.
+
+> I'm also going through (haven't finished yet) WesBos' [course on CSS Grid](https://cssgrid.io) now. It's even more informative and dives deeper into the theme of CSS Grid (themes, like auto-fit and minmax() function)
+
