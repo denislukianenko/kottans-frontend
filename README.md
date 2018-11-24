@@ -38,3 +38,18 @@ Course from Udacity didn't really give me much new knowledge on this theme, but 
 
 > I'm also going through (haven't finished yet) WesBos' [course on CSS Grid](https://cssgrid.io) now. It's even more informative and dives deeper into the theme of CSS Grid (themes, like auto-fit and minmax() function)
 
+## JavaScript Basics
+![Screenshots of performed tasks](./task_js_basics/freecodecamp.png)
+Udacity course explains basics of JS pretty clear. Examples, practice and visual animations contribute to that. 
+
+Guys, there are animations! Guys? Where did you go? Don't you like animations? They're important... Only for me? Meh..
+
+Honestly, I run through Udacity's JS basics briefly (skipped some videos and but read and performed tasks), proudly relying on my some sort of 3-years-ago-experience from learn.javascript.com and programming labs in university. 
+
+✨ My little discoveries:
+- We can chain expressions with ternary operators (but whyfor?);
+- Difference between function declarations and function expressions;
+- We can store function in an object just as any other object. Why haven't I ever thought about it? It was obvious...
+
+I performed all required freeCodeCamp tasks, though. And... didn't think I would say this but this is the most exciting part of the course. This process when you've spend 20 min for a task and feel like being close to giving up, but few minutes later you solve it and feel completely excited, and just being... winner! 
+![Screenshots of performed tasks](./task_js_basics/excitement.png)
