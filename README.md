@@ -1,4 +1,5 @@
 # Kottans Frontend Tasks
+Contents: [Git and Github](https://github.com/denislukianenko/kottans-frontend#git-and-github) | [Linux, Command Line, HTTP Tools](https://github.com/denislukianenko/kottans-frontend#linux-command-line-http-tools) | [Git for Team Collaboration](https://github.com/denislukianenko/kottans-frontend#git-for-team-collaboration) | [Intro to HTML and CSS](https://github.com/denislukianenko/kottans-frontend#intro-to-html-and-css) | [Responsive Web Design](https://github.com/denislukianenko/kottans-frontend#responsive-web-design) | [JavaScript Basics](https://github.com/denislukianenko/kottans-frontend#javascript-basics) | To be continued...
 ## Git and GitHub
 ![Screenshot of performed tasks](./task_git_intro/udacity-screenshot.png)
 
