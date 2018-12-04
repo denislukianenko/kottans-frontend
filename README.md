@@ -1,6 +1,6 @@
 # Kottans Frontend Tasks
 
-Contents: [Git and Github](https://github.com/denislukianenko/kottans-frontend#git-and-github) | [Linux, Command Line, HTTP Tools](https://github.com/denislukianenko/kottans-frontend#linux-command-line-http-tools) | [Git for Team Collaboration](https://github.com/denislukianenko/kottans-frontend#git-for-team-collaboration) | [Intro to HTML and CSS](https://github.com/denislukianenko/kottans-frontend#intro-to-html-and-css) | [Responsive Web Design](https://github.com/denislukianenko/kottans-frontend#responsive-web-design) | [JavaScript Basics](https://github.com/denislukianenko/kottans-frontend#javascript-basics) | [DOM](https://github.com/denislukianenko/kottans-frontend#dom) | To be continued...
+Contents: [Git and Github](https://github.com/denislukianenko/kottans-frontend#git-and-github) | [Linux, Command Line, HTTP Tools](https://github.com/denislukianenko/kottans-frontend#linux-command-line-http-tools) | [Git for Team Collaboration](https://github.com/denislukianenko/kottans-frontend#git-for-team-collaboration) | [Intro to HTML and CSS](https://github.com/denislukianenko/kottans-frontend#intro-to-html-and-css) | [Responsive Web Design](https://github.com/denislukianenko/kottans-frontend#responsive-web-design) | [JavaScript Basics](https://github.com/denislukianenko/kottans-frontend#javascript-basics) | [DOM](https://github.com/denislukianenko/kottans-frontend#dom) | [A Tiny JS World](https://github.com/denislukianenko/kottans-frontend#a-tiny-js-world) | To be continued...
 
 ## Git and GitHub
 
@@ -76,4 +76,17 @@ New for me from Udacity's DOM course:
 
 Some of freeCodeCamp's tasks were discouraging and boring (tasks with numbers) and some of them were pretty interesting (like the last one).
 
-3rd subtask is done, published https://task-menu.netlify.com/ and is on review...
+3rd subtask is done, published and reveiwed by zonzujiro 
+[Demo](https://task-menu.netlify.com/)
+ | [Pull-request merged]( https://github.com/kottans/frontend-2019-homeworks/pull/46) 
+ 
+ It was an interesting adiitional chellange to make content animate in a different way, depending on if a menu item which has been clicked is higher or lower then current :)
+
+ ## A Tiny JS World
+ [Demo](https://denislukianenko.github.io/a-tiny-JS-world/) |
+[Code base](https://github.com/denislukianenko/a-tiny-JS-world) | Is on review...
+
+> Brevity is the soul of wit.
+
+― William Shakespeare, Hamlet
+
