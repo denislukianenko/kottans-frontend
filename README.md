@@ -76,15 +76,15 @@ New for me from Udacity's DOM course:
 
 Some of freeCodeCamp's tasks were discouraging and boring (tasks with numbers) and some of them were pretty interesting (like the last one).
 
-3rd subtask is done, published and reveiwed by zonzujiro 
+3rd subtask is done, published and reveiwed
 [Demo](https://task-menu.netlify.com/)
- | [Pull-request merged]( https://github.com/kottans/frontend-2019-homeworks/pull/46) 
+ | [Pull-request merged]( https://github.com/kottans/frontend-2019-homeworks/pull/46) | Reviewed and approved by @zonzujiro 
  
  It was an interesting adiitional chellange to make content animate in a different way, depending on if a menu item which has been clicked is higher or lower then current :)
 
  ## A Tiny JS World
  [Demo](https://denislukianenko.github.io/a-tiny-JS-world/) |
-[Code base](https://github.com/denislukianenko/a-tiny-JS-world) | Is on review...
+[Code base](https://github.com/denislukianenko/a-tiny-JS-world) | [Pull Request](https://github.com/kottans/frontend-2019-homeworks/pull/62) Reviewed and approved by @AMashoshyna
 
 > Brevity is the soul of wit.
 
