@@ -78,15 +78,32 @@ Some of freeCodeCamp's tasks were discouraging and boring (tasks with numbers) a
 
 3rd subtask is done, published and reveiwed
 [Demo](https://task-menu.netlify.com/)
- | [Pull-request merged]( https://github.com/kottans/frontend-2019-homeworks/pull/46) | Reviewed and approved by @zonzujiro 
- 
- It was an interesting adiitional chellange to make content animate in a different way, depending on if a menu item which has been clicked is higher or lower then current :)
+| [Pull-request merged](https://github.com/kottans/frontend-2019-homeworks/pull/46) | Reviewed and approved by @zonzujiro
 
- ## A Tiny JS World
- [Demo](https://denislukianenko.github.io/a-tiny-JS-world/) |
+It was an interesting adiitional chellange to make content animate in a different way, depending on if a menu item which has been clicked is higher or lower then current :)
+
+## A Tiny JS World
+
+[Demo](https://denislukianenko.github.io/a-tiny-JS-world/) |
 [Code base](https://github.com/denislukianenko/a-tiny-JS-world) | [Pull Request](https://github.com/kottans/frontend-2019-homeworks/pull/62) Reviewed and approved by @AMashoshyna
 
 > Brevity is the soul of wit.
 
 ― William Shakespeare, Hamlet
 
+## Object Oriented JS
+
+![Screenshots of performed tasks](./task_js_oop/js-oop-screenshot.png)
+
+Honestly, closer to the finish of Udacity's course on OOP I found myself just watching videos without much understanding what is going on, and skipping quizzes. So I decided to give it another try — with Udacity's newer course on [Object-Oriented JavaScript](classroom.udacity.com/courses/ud711). This one seemed better to me and I felt more involved into it. Still, I think OOP in JS requires better investigation from me. I'm learning C++ OOP in the university right now and it (sundennly) is easier to understand. Anyway, here's my notes I've been taking through course for this reflection:
+
+- Closure refers to the combination of a function and the lexical environment in which that function was declared.
+- Function defined within another function has access to parent's properties which is useful.
+- Immediately-Invoked Function Expressions
+- Whoa we've been using .prototype methods all the time.
+- The (Revealing) Module Pattern to create private properties.
+
+Guess I'll have to find some other materials on this topic, because I don't have any ideas on how to improve Tiny JS World for next task (for now).
+
+**Frogger** | [Demo](https://denislukianenko.github.io/frogger/) |
+[Code base](https://github.com/denislukianenko/frogger) | [PR](https://github.com/kottans/frontend-2019-homeworks/pull/80) | Reviewed and approved by @AMashoshyna
