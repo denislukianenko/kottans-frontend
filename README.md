@@ -110,7 +110,7 @@ Guess I'll have to find some other materials on this topic, because I don't have
 
 ## OOP Exercise
 
-The force of comments was strong with this one. 23 of them there was.
+The force of comments was strong with this one. 23 of them there were.
 
 **Tiny JS World (OOP Version)** | [Demo](https://denislukianenko.github.io/a-tiny-JS-world/) |
 [Code base](https://github.com/denislukianenko/a-tiny-JS-world) | [PR](https://github.com/kottans/frontend-2019-homeworks/pull/89) | Reviewed and approved by @OleksiyRudenko
