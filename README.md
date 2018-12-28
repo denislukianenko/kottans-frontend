@@ -108,7 +108,7 @@ Guess I'll have to find some other materials on this topic, because I don't have
 **Frogger** | [Demo](https://denislukianenko.github.io/frogger/) |
 [Code base](https://github.com/denislukianenko/frogger) | [PR](https://github.com/kottans/frontend-2019-homeworks/pull/80) | Reviewed and approved by @AMashoshyna
 
-### OOP Exercise
+## OOP Exercise
 
 The force of comments was strong with this one. 23 of them there was.
 
