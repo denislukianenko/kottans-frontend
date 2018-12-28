@@ -1,6 +1,6 @@
 # Kottans Frontend Tasks
 
-Contents: [Git and Github](https://github.com/denislukianenko/kottans-frontend#git-and-github) | [Linux, Command Line, HTTP Tools](https://github.com/denislukianenko/kottans-frontend#linux-command-line-http-tools) | [Git for Team Collaboration](https://github.com/denislukianenko/kottans-frontend#git-for-team-collaboration) | [Intro to HTML and CSS](https://github.com/denislukianenko/kottans-frontend#intro-to-html-and-css) | [Responsive Web Design](https://github.com/denislukianenko/kottans-frontend#responsive-web-design) | [JavaScript Basics](https://github.com/denislukianenko/kottans-frontend#javascript-basics) | [DOM](https://github.com/denislukianenko/kottans-frontend#dom) | [A Tiny JS World](https://github.com/denislukianenko/kottans-frontend#a-tiny-js-world) | [Object Oriented JS](https://github.com/denislukianenko/kottans-frontend#object-oriented-js) | To be continued...
+Contents: [Git and Github](https://github.com/denislukianenko/kottans-frontend#git-and-github) | [Linux, Command Line, HTTP Tools](https://github.com/denislukianenko/kottans-frontend#linux-command-line-http-tools) | [Git for Team Collaboration](https://github.com/denislukianenko/kottans-frontend#git-for-team-collaboration) | [Intro to HTML and CSS](https://github.com/denislukianenko/kottans-frontend#intro-to-html-and-css) | [Responsive Web Design](https://github.com/denislukianenko/kottans-frontend#responsive-web-design) | [JavaScript Basics](https://github.com/denislukianenko/kottans-frontend#javascript-basics) | [DOM](https://github.com/denislukianenko/kottans-frontend#dom) | [A Tiny JS World](https://github.com/denislukianenko/kottans-frontend#a-tiny-js-world) | [Object Oriented JS](https://github.com/denislukianenko/kottans-frontend#object-oriented-js) | [OOP Exercise](https://github.com/denislukianenko/kottans-frontend#oop-exercise) | To be continued...
 
 ## Git and GitHub
 
@@ -107,3 +107,10 @@ Guess I'll have to find some other materials on this topic, because I don't have
 
 **Frogger** | [Demo](https://denislukianenko.github.io/frogger/) |
 [Code base](https://github.com/denislukianenko/frogger) | [PR](https://github.com/kottans/frontend-2019-homeworks/pull/80) | Reviewed and approved by @AMashoshyna
+
+### OOP Exercise
+
+The force of comments was strong with this one. 23 of them there was.
+
+**Tiny JS World (OOP Version)** | [Demo](https://denislukianenko.github.io/a-tiny-JS-world/) |
+[Code base](https://github.com/denislukianenko/a-tiny-JS-world) | [PR](https://github.com/kottans/frontend-2019-homeworks/pull/89) | Reviewed and approved by @OleksiyRudenko
