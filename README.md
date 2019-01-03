@@ -127,7 +127,7 @@ Course form Udacity helped me to undestand what was happening in my code back th
 Thanks to mentors comments on this task I've run through few simple, but cool optimisations:
 
 - Writing only animation-delay for nth element istead of full animation
-- Writing template literals and instead of numerous `createElemen`/`appendChild` was like "Wow. Why I heven't done it before!"
+- Writing template literals and instead of numerous `createElement`/`appendChild` was like "Wow. Why I heven't done it before!"
 - Better class naming
 - Rewriting complex `if`'s with many identations
 - and much more...
