@@ -1,6 +1,6 @@
 # Kottans Frontend Tasks
 
-Contents: [Git and Github](https://github.com/denislukianenko/kottans-frontend#git-and-github) | [Linux, Command Line, HTTP Tools](https://github.com/denislukianenko/kottans-frontend#linux-command-line-http-tools) | [Git for Team Collaboration](https://github.com/denislukianenko/kottans-frontend#git-for-team-collaboration) | [Intro to HTML and CSS](https://github.com/denislukianenko/kottans-frontend#intro-to-html-and-css) | [Responsive Web Design](https://github.com/denislukianenko/kottans-frontend#responsive-web-design) | [JavaScript Basics](https://github.com/denislukianenko/kottans-frontend#javascript-basics) | [DOM](https://github.com/denislukianenko/kottans-frontend#dom) | [A Tiny JS World](https://github.com/denislukianenko/kottans-frontend#a-tiny-js-world) | [Object Oriented JS](https://github.com/denislukianenko/kottans-frontend#object-oriented-js) | [OOP Exercise](https://github.com/denislukianenko/kottans-frontend#oop-exercise) | To be continued...
+Contents: [Git and Github](https://github.com/denislukianenko/kottans-frontend#git-and-github) | [Linux, Command Line, HTTP Tools](https://github.com/denislukianenko/kottans-frontend#linux-command-line-http-tools) | [Git for Team Collaboration](https://github.com/denislukianenko/kottans-frontend#git-for-team-collaboration) | [Intro to HTML and CSS](https://github.com/denislukianenko/kottans-frontend#intro-to-html-and-css) | [Responsive Web Design](https://github.com/denislukianenko/kottans-frontend#responsive-web-design) | [JavaScript Basics](https://github.com/denislukianenko/kottans-frontend#javascript-basics) | [DOM](https://github.com/denislukianenko/kottans-frontend#dom) | [A Tiny JS World](https://github.com/denislukianenko/kottans-frontend#a-tiny-js-world) | [Object Oriented JS](https://github.com/denislukianenko/kottans-frontend#object-oriented-js) | [OOP Exercise](https://github.com/denislukianenko/kottans-frontend#oop-exercise) | [Offline Web Application](https://github.com/denislukianenko/kottans-frontend#offline-web-applications) | [Memory Pair Game](https://github.com/denislukianenko/kottans-frontend#memory-pair-game) | To be continued...
 
 ## Git and GitHub
 
@@ -114,3 +114,23 @@ The force of comments was strong with this one. 23 of them there were.
 
 **Tiny JS World (OOP Version)** | [Demo](https://denislukianenko.github.io/a-tiny-JS-world/) |
 [Code base](https://github.com/denislukianenko/a-tiny-JS-world) | [PR](https://github.com/kottans/frontend-2019-homeworks/pull/89) | Reviewed and approved by @OleksiyRudenko
+
+## Offline Web Applications
+
+![Screenshots of performed tasks](./task_offline_web_app/udacity-screenshot.png)
+I've had some experience of work with service workers before to create PWA, that would work offline, but back than I discovered it as deep as "I'll tweak this code from the internet and it works fine".
+
+Course form Udacity helped me to undestand what was happening in my code back than and get that eye-opening moment of "Hey, we can catch any request and respond with whatever we want even fully offline" which feels like a really powerfull feature. I didn't get section about IndexedDB, though.
+
+## Memory Pair Game
+
+Thanks to mentors comments on this task I've run through few simple, but cool optimisations:
+
+- Writing only animation-delay for nth element istead of full animation
+- Writing template literals and instead of numerous `createElemen`/`appendChild` was like "Wow. Why I heven't done it before!"
+- Better class naming
+- Rewriting complex `if`'s with many identations
+- and much more...
+
+[Demo](https://denislukianenko.github.io/memory-pair-game/) |
+[Code base](https://github.com/denislukianenko/memory-pair-game) | [PR](https://github.com/kottans/frontend-2019-homeworks/pull/179) | Reviewed by @IgorKurkov, @A-Ostrovnyy. Approved by @A-Ostrovnyy. Merged by @zonzujiro
