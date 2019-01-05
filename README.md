@@ -139,15 +139,13 @@ Thanks to mentors comments on this task I've run through few simple, but cool op
 
 ![Screenshot from twitter](./task_friends_app/twitter-screenshot.png)
 
-<p align="center">
-<img src="./task_friends_app/applause.gif">
-</p>
+![Screenshot from twitter](./task_friends_app/applause.gif)
 
 [Demo](https://denislukianenko.github.io/friends-app/) |
 [Code base](https://github.com/denislukianenko/friends-app) | [PR](https://github.com/kottans/frontend-2019-homeworks/pull/223) | Reviewed and approved by @zonzujiro
 
-
 <h1 align="center">Stage 0 is Done<h1>
 
-
-![Screenshot from twitter](./task_friends_app/fireworks.png)
+<p align="center">
+<img src="./task_friends_app/fireworks.png">
+</p>
