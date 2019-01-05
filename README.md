@@ -138,7 +138,6 @@ Thanks to mentors comments on this task I've run through few simple, but cool op
 ## Friends App
 
 ![Screenshot from twitter](./task_friends_app/twitter-screenshot.png)
-
 ![Screenshot from twitter](./task_friends_app/applause.gif)
 
 [Demo](https://denislukianenko.github.io/friends-app/) |
