@@ -148,7 +148,7 @@ Thanks to mentors comments on this task I've run through few simple, but cool op
 ![Screenshot from twitter](./task_website_performance/udacity-screen.png)
 Web perf is one of my favourite themes and one of my greates weaknesses. Big first article was not an easy thing to read, I prefer someting like Ivan Akulov's [Web Perf 101](https://3perf.com/talks/web-perf-101) more.
 
-First Udacity course in task list was just good for me, not too informative. Article about Style with it's painted pictures describes browser work in a really funny way. Seems like I start liking Lin Clark's articles. They (epecially [this](https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/) article) make me think about switching to Firefox and about hom much Mozilla are making for web.
+First Udacity course in task list was just good for me, not too informative. Article about Style with it's painted pictures describes browser work in a really funny way. Seems like I start liking Lin Clark's articles. They (epecially [this](https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/) article) make me think about switching to Firefox and how much Mozilla are making for web.
 
 Second course on Udacity was quite informative, and coused me to investigate DevTools Perfomance tab better :) It helped me to find perfomance issue in task stats site (seems like too much time for painting and compositing of of inner shadows for each line)
 
